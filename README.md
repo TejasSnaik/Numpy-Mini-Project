@@ -1,5 +1,6 @@
 # Numpy-Mini-Project
-A Mini project to learn and understand Numpy. To Explore and extract various Insights from the dataset
+A Mini project to learn and understand Numpy. 
+To Explore and extract various Insights from the dataset
 Features of the data set:
 
 Age: Age of the person
@@ -24,4 +25,3 @@ hours-per-week: No. of hours per week the person works
 income: Annual Income of the person
 0 : Less than or equal to 50K
 1 : More than 50K
-
