@@ -1,6 +1,7 @@
 # Numpy-Mini-Project
 A Mini project to learn and understand Numpy. 
 To Explore and extract various Insights from the dataset
+
 Features of the data set:
 
 Age: Age of the person
